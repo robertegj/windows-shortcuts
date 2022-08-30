@@ -6,6 +6,7 @@ works with windows XP, 7, 8, 10, 11(?)
 | :-----:  | :---:          | 
 | Win + D  | Show Desktop   |
 | Win + L  | Lock Computer  | 
+| Win + .  | Emoji Menu 😁  | 
 | Ctrl + A | Select All     | 
 | Ctrl + C | Copy           | 
 | Ctrl + V | Paste          | 
