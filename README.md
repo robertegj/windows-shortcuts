@@ -11,4 +11,6 @@ works with windows XP, 7, 8, 10, 11(?)
 | Ctrl + A | Select All     | 
 | Ctrl + C | Copy           | 
 | Ctrl + V | Paste          | 
+| Alt + Tab| Change Window  | 
+| Alt + F4 | Close Window   | 
 | Win + B  | Select Taskbar |
