@@ -7,6 +7,7 @@ works with windows XP, 7, 8, 10, 11(?)
 | Win + D  | Show Desktop   |
 | Win + E  | File Explorer  |
 | Win + L  | Lock Computer  | 
+| Win + R  | Open Run Menu  |
 | Win + .  | Emoji Menu 😁  | 
 | Ctrl + A | Select All     | 
 | Ctrl + C | Copy           | 
