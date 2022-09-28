@@ -15,3 +15,5 @@ works with windows XP, 7, 8, 10, 11(?)
 | Alt + Tab| Change Window  | 
 | Alt + F4 | Close Window   | 
 | Win + B  | Select Taskbar |
+| Ctrl + Alt + Del  | Task Manager |
+| Ctrl + Shift + Esc  | Task Manager |
