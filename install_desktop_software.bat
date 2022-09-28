@@ -1,0 +1,3 @@
+discord
+chrome
+firefox
