@@ -1,3 +1,4 @@
+Get-AppXPackage | where-object {$_.name –notlike “*store*”} | Remove-AppxPackage
 Get-AppxPackage -Name "Microsoft.WindowsStore" | Remove-AppxPackage
 Get-AppxPackage -Name "Microsoft.todos" -AllUsers | Remove-AppxPackage -AllUsers
 (New-Object -Com Shell.Application).
