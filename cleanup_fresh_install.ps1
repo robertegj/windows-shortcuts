@@ -8,5 +8,6 @@ Get-AppxPackage -Name "Microsoft.todos" -AllUsers | Remove-AppxPackage -AllUsers
   ?{$_.Name -match 'Un.*pin from Start'} |
   %{$_.DoIt()}
   
-  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-  choco install -y vscode
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+choco install -y vscode
+choco install -y python
